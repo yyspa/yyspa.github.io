@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/08/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>前缀</title>
+    <url>/2020/08/03/%E5%89%8D%E7%BC%80/</url>
+    <content><![CDATA[<h1 id="英语学习"><a href="#英语学习" class="headerlink" title="英语学习"></a>英语学习</h1><h2 id="基础词根词缀"><a href="#基础词根词缀" class="headerlink" title="基础词根词缀"></a>基础词根词缀</h2><h3 id="词根词缀法"><a href="#词根词缀法" class="headerlink" title="词根词缀法"></a>词根词缀法</h3><p>​    前缀–&gt;词向<br>​    词根–&gt;词意            unbelievable”un前缀，believ词根，able后缀”<br>​    后缀–&gt;词性</p>
+<h4 id="前缀"><a href="#前缀" class="headerlink" title="前缀"></a>前缀</h4><h6 id="1-ab-离去，相反，不"><a href="#1-ab-离去，相反，不" class="headerlink" title="1.ab-    离去，相反，不"></a>1.ab-    离去，相反，不</h6><p>​    abnormal    a. 反常的<br>​    abuse    n./v. 滥用</p>
+<h6 id="2-anti-反对，相反"><a href="#2-anti-反对，相反" class="headerlink" title="2.anti-    反对，相反"></a>2.anti-    反对，相反</h6><p>​    antiwar    a. 反战的<br>​    antiaging    a. 防衰老的<br>​    antiforeign    a. 排外的<br>​    antinoise    a. 抗噪音的</p>
+<h6 id="3-co-col-con-com-一起"><a href="#3-co-col-con-com-一起" class="headerlink" title="3.co-/col-/con-/com-    一起"></a>3.co-/col-/con-/com-    一起</h6><p>​    cooperation    n. 合作<br>​    collaboration    n. 合作<br>​    contribute    v.共享<br>​    communicate    v. 通讯，交流</p>
+<h6 id="4-counter-反对，相反"><a href="#4-counter-反对，相反" class="headerlink" title="4.counter-    反对，相反"></a>4.counter-    反对，相反</h6><p>​    counterattack    n./v. 反击<br>​    countereffect    n. 反效果<br>​    countertrend    n. 反潮流</p>
+<h6 id="5-de-否定；除去；向下"><a href="#5-de-否定；除去；向下" class="headerlink" title="5.de-    否定；除去；向下"></a>5.de-    否定；除去；向下</h6><p>​    <strong>否定</strong><br>​    denationalize    v. 非国有化<br>​    decompose    v. 分解<br>​    demerit    n. 缺点    merit    优点<br>​    <strong>除去</strong><br>​    deforest    v. 砍伐树木    deforestation    乱砍乱伐<br>​    decolour    v. 使褪色<br>​    decode    v. 解码<br>​    <strong>向下</strong><br>​    depress    v. 使沮丧，使萧条    Great Depression    经济大萧条<br>​    devalue    v. 贬值</p>
+<h6 id="6-dis-不；除去；分开"><a href="#6-dis-不；除去；分开" class="headerlink" title="6.dis-    不；除去；分开"></a>6.dis-    不；除去；分开</h6><p>​    <strong>不</strong><br>​    disorder    n. 无秩序    mental disorder    精神错乱<br>​    disappear    v. 消失<br>​    <strong>除去</strong><br>​    disforest    v. 开伐山林    deforest<br>​    discolor    v. 使褪色    decolour<br>​    <strong>分开</strong><br>​    distract    v. 分心<br>​    distribute    v. 分配</p>
+<h6 id="7-ex-外；前任的"><a href="#7-ex-外；前任的" class="headerlink" title="7.ex-    外；前任的"></a>7.ex-    外；前任的</h6><p>​    export    v. 出口<br>​    exit    n. 出口<br>​    exclude    v. 排外    include    v. 包含；包括<br>​    ex-boyfriend    n. 前男友<br>​    ex-girlfriend    n. 前女友</p>
+<h6 id="8-fore-前，先，预先"><a href="#8-fore-前，先，预先" class="headerlink" title="8.fore-    前，先，预先"></a>8.fore-    前，先，预先</h6><p>​    forehead    n. 前额<br>​    forefather    n. 祖先<br>​    foresee    v. 预知，预料，预见</p>
+<h6 id="9-in-im-不；向里"><a href="#9-in-im-不；向里" class="headerlink" title="9.in-/im-    不；向里"></a>9.in-/im-    不；向里</h6><p>​    <strong>in</strong><br>​    incorrect    a. 错误的<br>​    incomplete    a. 不完全的<br>​    indoor    a. 室内的<br>​    inbreathe    v. 吸<br>​    <strong>im</strong><br>​    impossible    a. 不可能的<br>​    imbalance    n. 不平衡<br>​    immortal    a. 不死的<br>​    import    n./v. 进口</p>
+<h6 id="10-inter-在…之间"><a href="#10-inter-在…之间" class="headerlink" title="10.inter-    在…之间"></a>10.inter-    在…之间</h6><p>​    international    a. 国际的<br>​    interpersonal    a.人际的    relationship    n. (人、团体、国家之间) (事物之间)关系，联系；</p>
+<p><code>观看哔哩哔哩上的一个up主的视频写得笔记</code></p>
+]]></content>
+      <categories>
+        <category>英语</category>
+      </categories>
+  </entry>
+</search>
