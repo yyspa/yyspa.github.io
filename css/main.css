@@ -1776,6 +1776,9 @@ pre code {
 .back-to-top {
   font-size: 12px;
 }
+.back-to-top span {
+  display: none;
+}
 .back-to-top {
   bottom: -100px;
   box-sizing: border-box;
@@ -1788,7 +1791,7 @@ pre code {
   position: fixed;
   z-index: 1300;
   left: 30px;
-  width: initial;
+  width: 24px;
 }
 @media (max-width: 991px) {
   .back-to-top {
@@ -1821,6 +1824,15 @@ pre code {
   top: 0;
   width: 100%;
   z-index: 1500;
+}
+.reading-progress-bar {
+  background: #37c60;
+  height: 3px;
+  left: 0;
+  position: fixed;
+  width: 0;
+  z-index: 1500;
+  top: 0;
 }
 .post-body {
   font-family: Lato, "PingFang SC", "Microsoft YaHei", sans-serif;
@@ -2895,7 +2907,7 @@ mark.search-keyword {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e862ff;
+  background: #572ed1;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
