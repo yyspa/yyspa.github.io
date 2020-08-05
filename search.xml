@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2020/08/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>前缀</title>
     <url>/2020/08/05/%E5%89%8D%E7%BC%80/</url>
     <content><![CDATA[<h1 id="英语学习"><a href="#英语学习" class="headerlink" title="英语学习"></a>英语学习</h1><h2 id="基础词根词缀"><a href="#基础词根词缀" class="headerlink" title="基础词根词缀"></a>基础词根词缀</h2><h3 id="词根词缀法"><a href="#词根词缀法" class="headerlink" title="词根词缀法"></a>词根词缀法</h3><p>​    前缀–&gt;词向<br>​    词根–&gt;词意            unbelievable”un前缀，believ词根，able后缀”<br>​    后缀–&gt;词性</p>
@@ -25,24 +43,6 @@
 <h6 id="19-trans-转移"><a href="#19-trans-转移" class="headerlink" title="19.trans-    转移"></a>19.trans-    转移</h6><p>​    transform    v. 改变(大的改变)    change    改变(小改变)<br>​    transplant    v. 移植<br>​    transposition    n. 互换位置</p>
 <h6 id="20-数字前缀"><a href="#20-数字前缀" class="headerlink" title="20.数字前缀"></a>20.数字前缀</h6><p>​    <strong>mono-    1</strong><br>​    monotone    n. 单调<br>​    monodrama    n. 独角戏    drama queen    戏精；大惊小怪的人<br>​    <strong>bi-    2</strong><br>​    bicycle    n. 自行车<br>​    bilateral    a. 双边的    relationship    关系<br>​    <strong>di-    2</strong><br>​    dioxide    n. 二氧化碳<br>​    divorce    v./n. 离婚<br>​    <strong>tri-    3</strong><br>​    triangle    n. 三角形    angle    角<br>​    trike    n. 三轮车<br>​    <strong>hemi-    半</strong><br>​    hemisphere    n. 半球<br>​    hemicycle    n. 半圆<br>​    <strong>semi-    半</strong><br>​    semifinal    n. 半决赛<br>​    semiautomatic    a. 半自动的<br>​    <strong>poly-    多</strong><br>​    monopoly*    n. 垄断<br>​    polytechnic    n. 理工学校<br>​    multi-    多<br>​    multi-purpose    a. 多功能的<br>​    multi-media    n. 多媒体<br>​    </p>
 <p><code>观看哔哩哔哩上的一个up主的视频写得笔记</code></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2020/08/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
 </search>
