@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-08T12:28:59.757Z</updated>
+  <updated>2020-08-10T10:35:58.124Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>语块</title>
+    <link href="http://yoursite.com/2020/08/08/%E8%AF%AD%E5%9D%97/"/>
+    <id>http://yoursite.com/2020/08/08/%E8%AF%AD%E5%9D%97/</id>
+    <published>2020-08-08T12:39:01.797Z</published>
+    <updated>2020-08-10T10:35:58.124Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;语块关联记忆&quot;&gt;&lt;a href=&quot;#语块关联记忆&quot; class=&quot;headerlink&quot; title=&quot;语块关联记忆&quot;&gt;&lt;/a&gt;语块关联记忆&lt;/h3&gt;&lt;h4 id=&quot;语块&quot;&gt;&lt;a href=&quot;#语块&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="英语" scheme="http://yoursite.com/categories/%E8%8B%B1%E8%AF%AD/"/>
+    
+    
+      <category term="英语" scheme="http://yoursite.com/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+      <category term="基础" scheme="http://yoursite.com/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
   
   <entry>
     <title>词根</title>
