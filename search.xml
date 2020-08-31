@@ -213,7 +213,12 @@
 <h3 id="计算机编程语言介绍"><a href="#计算机编程语言介绍" class="headerlink" title="计算机编程语言介绍"></a>计算机编程语言介绍</h3><p><strong>什么是计算机语言</strong><br>计算机语言：人与计算机交流的方式<br>如：<strong>C、C++、Java、PHP、Kotlin、Python、Scala等</strong><br>第一代语言<br>机器语言：指令以二进制代码形式存在。<br>第二代语言<br>汇编语言：使用助记符表示一条机器指令。<br>第三代语言：高级语言<br>C、Pascal、Fortran面向过程的语言<br>C++面向过程/面向对象<br>Java跨平台的纯面向对象的语言<br>.NET跨语言的平台<br>Python、Scala…</p>
 ]]></content>
       <categories>
-        <category>Java - java - 语言 - 面向对象</category>
+        <category>Java</category>
       </categories>
+      <tags>
+        <tag>语言</tag>
+        <tag>面向对象</tag>
+        <tag>java</tag>
+      </tags>
   </entry>
 </search>

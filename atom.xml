@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-31T14:45:30.017Z</updated>
+  <updated>2020-08-31T14:47:53.112Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/08/31/Java01/"/>
     <id>http://yoursite.com/2020/08/31/Java01/</id>
     <published>2020-08-31T13:54:46.500Z</published>
-    <updated>2020-08-31T14:45:30.017Z</updated>
+    <updated>2020-08-31T14:47:53.112Z</updated>
     
     <summary type="html">
     
@@ -30,8 +30,14 @@
     </summary>
     
     
-      <category term="Java - java - 语言 - 面向对象" scheme="http://yoursite.com/categories/Java-java-%E8%AF%AD%E8%A8%80-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
     
+    
+      <category term="语言" scheme="http://yoursite.com/tags/%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="面向对象" scheme="http://yoursite.com/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    
+      <category term="java" scheme="http://yoursite.com/tags/java/"/>
     
   </entry>
   
