@@ -201,4 +201,19 @@
         <tag>面向对象</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Java01</title>
+    <url>/2020/08/31/Java01/</url>
+    <content><![CDATA[<h3 id="软件开发介绍"><a href="#软件开发介绍" class="headerlink" title="软件开发介绍"></a>软件开发介绍</h3><p><strong>软件开发</strong><br>软件，即一系列按照特定顺序组织的计算机数据和指令的集合，有<strong>系统软件</strong>和<strong>应用软件</strong>之分。<br><strong>人机交互方式</strong></p>
+<ul>
+<li><strong>图形化界面</strong>(<strong>Graphical User Interface GUI</strong>)这种方式简单直观，使用者易于接受 ，容易上手操作。</li>
+<li><strong>命令行方式</strong>(<strong>Command Line Interface GUI</strong>)：需要有一个控制台，输入特定的指令，让计算机完成一些操作，较为玛法，需要记录住一些命令。</li>
+</ul>
+<p><code>Pascal之父Nickiaus With:&quot;Algorithms+Data Structures=Programs&quot;</code><br>``施乐-苹果-微软`<br><strong>常用的DOS命令</strong><br>dir：列出当前目录下的文件以及文件夹<br>md：创建目录<br>rd：删除目录<br>cd：进入指定目录<br>cd..：退回到上级目录<br>cd\：退回到根目录<br>del：删除文件<br>exit：退出 <strong>dos</strong> 命令行<br>*echo   javase&gt;1.doc：将“javase”写入到1.doc文件里面<br><strong>常用快捷键</strong><br>左、右：移动光标<br>上、下：阅览历史操作命令<br>Delete和Backspace：删除字符</p>
+<h3 id="计算机编程语言介绍"><a href="#计算机编程语言介绍" class="headerlink" title="计算机编程语言介绍"></a>计算机编程语言介绍</h3><p><strong>什么是计算机语言</strong><br>计算机语言：人与计算机交流的方式<br>如：<strong>C、C++、Java、PHP、Kotlin、Python、Scala等</strong><br>第一代语言<br>机器语言：指令以二进制代码形式存在。<br>第二代语言<br>汇编语言：使用助记符表示一条机器指令。<br>第三代语言：高级语言<br>C、Pascal、Fortran面向过程的语言<br>C++面向过程/面向对象<br>Java跨平台的纯面向对象的语言<br>.NET跨语言的平台<br>Python、Scala…</p>
+]]></content>
+      <categories>
+        <category>Java - java - 语言 - 面向对象</category>
+      </categories>
+  </entry>
 </search>
