@@ -184,4 +184,21 @@
         <tag>基础</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Python01</title>
+    <url>/2020/08/31/Python01/</url>
+    <content><![CDATA[<h1 id="Python概述"><a href="#Python概述" class="headerlink" title="Python概述"></a>Python概述</h1><p>Python    面向对象    解释型    程序设计语言    （Guido van Rossum）</p>
+<a id="more"></a>
+<p><strong>设计哲学</strong><br>优雅    明确    简单（人生苦短 我用Python）<br><strong>“胶水”语言</strong><br>复杂的应用程序粘和在一起（尤其是C/C++）<br><strong>应用领域</strong><br>Web开发、大数据处理、人工智能、云计算、自动化运维开发、爬虫、游戏开发</p>
+<h3 id="安装Python"><a href="#安装Python" class="headerlink" title="安装Python"></a>安装Python</h3><p>查看操作系统的位数—》下载Python的安装包 <a href="https://www.python.org/">https://www.python.org</a> —》安装并测试Python是否安装成功</p>
+]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>语言</tag>
+        <tag>面向对象</tag>
+      </tags>
+  </entry>
 </search>
