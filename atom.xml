@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-31T14:48:51.301Z</updated>
+  <updated>2020-08-31T14:51:05.151Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="http://yoursite.com/2020/08/31/Java01/"/>
     <id>http://yoursite.com/2020/08/31/Java01/</id>
     <published>2020-08-31T13:54:46.500Z</published>
-    <updated>2020-08-31T14:48:51.301Z</updated>
+    <updated>2020-08-31T14:51:05.151Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;软件开发介绍&quot;&gt;&lt;a href=&quot;#软件开发介绍&quot; class=&quot;headerlink&quot; title=&quot;软件开发介绍&quot;&gt;&lt;/a&gt;软件开发介绍&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;软件开发&lt;/strong&gt;&lt;br&gt;软件，即一系列按照特定顺序组织的计算机数据和指令的集合，有&lt;strong&gt;系统软件&lt;/strong&gt;和&lt;strong&gt;应用软件&lt;/strong&gt;之分。&lt;br&gt;&lt;strong&gt;人机交互方式&lt;/strong&gt;&lt;/p&gt;
+      &lt;h3 id=&quot;软件开发介绍&quot;&gt;&lt;a href=&quot;#软件开发介绍&quot; class=&quot;headerlink&quot; title=&quot;软件开发介绍&quot;&gt;&lt;/a&gt;软件开发介绍&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;软件开发&lt;/strong&gt;&lt;br&gt;软件，即一系列按照特定顺序组织的计算机数据和指令的集合，有&lt;strong&gt;系统软件&lt;/strong&gt;和&lt;strong&gt;应用软件&lt;/strong&gt;之分。
     
     </summary>
     
@@ -71,17 +71,11 @@
     <link href="http://yoursite.com/2020/08/08/%E8%AF%AD%E5%9D%97/"/>
     <id>http://yoursite.com/2020/08/08/%E8%AF%AD%E5%9D%97/</id>
     <published>2020-08-08T12:39:01.797Z</published>
-    <updated>2020-08-10T14:58:00.154Z</updated>
+    <updated>2020-08-31T14:50:52.252Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h3 id=&quot;语块关联记忆&quot;&gt;&lt;a href=&quot;#语块关联记忆&quot; class=&quot;headerlink&quot; title=&quot;语块关联记忆&quot;&gt;&lt;/a&gt;语块关联记忆&lt;/h3&gt;&lt;h4 id=&quot;语块&quot;&gt;&lt;a href=&quot;#语块&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;h3 id=&quot;语块关联记忆&quot;&gt;&lt;a href=&quot;#语块关联记忆&quot; class=&quot;headerlink&quot; title=&quot;语块关联记忆&quot;&gt;&lt;/a&gt;语块关联记忆&lt;/h3&gt;&lt;h4 id=&quot;语块&quot;&gt;&lt;a href=&quot;#语块&quot; class=&quot;headerlink&quot; title=&quot;语块&quot;&gt;&lt;/a&gt;语块&lt;/h4&gt;&lt;p&gt;&lt;code&gt;单词打包，组&amp;quot;CP&amp;quot;&lt;/code&gt;&lt;br&gt;    AI = artificial    intelligence&lt;/p&gt;
     
     </summary>
     

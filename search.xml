@@ -107,6 +107,8 @@
     <title>语块</title>
     <url>/2020/08/08/%E8%AF%AD%E5%9D%97/</url>
     <content><![CDATA[<h3 id="语块关联记忆"><a href="#语块关联记忆" class="headerlink" title="语块关联记忆"></a>语块关联记忆</h3><h4 id="语块"><a href="#语块" class="headerlink" title="语块"></a>语块</h4><p><code>单词打包，组&quot;CP&quot;</code><br>    AI = artificial    intelligence</p>
+<a id="more"></a>
+
 <p><strong>情境分类：7大领域 18大话题</strong></p>
 <table>
 <thead>
@@ -204,9 +206,7 @@
   <entry>
     <title>Java01</title>
     <url>/2020/08/31/Java01/</url>
-    <content><![CDATA[<h3 id="软件开发介绍"><a href="#软件开发介绍" class="headerlink" title="软件开发介绍"></a>软件开发介绍</h3><p><strong>软件开发</strong><br>软件，即一系列按照特定顺序组织的计算机数据和指令的集合，有<strong>系统软件</strong>和<strong>应用软件</strong>之分。<br><strong>人机交互方式</strong></p>
-<a id="more"></a>
-
+    <content><![CDATA[<h3 id="软件开发介绍"><a href="#软件开发介绍" class="headerlink" title="软件开发介绍"></a>软件开发介绍</h3><p><strong>软件开发</strong><br>软件，即一系列按照特定顺序组织的计算机数据和指令的集合，有<strong>系统软件</strong>和<strong>应用软件</strong>之分。<a id="more"></a><br><strong>人机交互方式</strong></p>
 <ul>
 <li><strong>图形化界面</strong>(<strong>Graphical User Interface GUI</strong>)这种方式简单直观，使用者易于接受 ，容易上手操作。</li>
 <li><strong>命令行方式</strong>(<strong>Command Line Interface GUI</strong>)：需要有一个控制台，输入特定的指令，让计算机完成一些操作，较为玛法，需要记录住一些命令。</li>
