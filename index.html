@@ -329,7 +329,7 @@
               <span class="post-meta-item-text">发表于</span>
               
 
-              <time title="创建时间：2020-09-10 19:38:10 / 修改时间：19:43:48" itemprop="dateCreated datePublished" datetime="2020-09-10T19:38:10+08:00">2020-09-10</time>
+              <time title="创建时间：2020-09-10 19:38:10 / 修改时间：19:47:57" itemprop="dateCreated datePublished" datetime="2020-09-10T19:38:10+08:00">2020-09-10</time>
             </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -389,37 +389,14 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">测试版本为idea for mac，可能快捷键不同，但是设置等肯定是相同的</span><br><span class="line">1</span><br></pre></td></tr></table></figure>
 
 <hr>
-<h2 id="生成类注释"><a href="#生成类注释" class="headerlink" title="生成类注释"></a>生成类注释</h2><ol>
-<li>打开Preferences</li>
-<li>Editor -&gt; File and Code Templates -&gt; Files -&gt; Class<br> <img src="https://img-blog.csdn.net/20171101005538072?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzQ1ODExMTg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" alt="这里写图片描述"></li>
-<li>效果图<br> <img src="https://img-blog.csdn.net/20171101010225755?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzQ1ODExMTg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" alt="这里写图片描述"><br> 网上很多都是在Includes的File Header里面添加，在这里面添加还需要自己去移动下鼠标，然后再去操作键盘，再去写description，，直接在创建类的时候就添加好description不更快吗？<ul>
-<li><strong>在此添加的话你每次创建类的时候会弹两次框，第二次是让你输入description的内容了</strong>，so, 这就是最优的方法</li>
-</ul>
-</li>
-<li>同理，也可以在这儿为你的Interface，Enum添加上注释</li>
-</ol>
-<h3 id="生成类注解模板"><a href="#生成类注解模板" class="headerlink" title="生成类注解模板"></a>生成类注解模板</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">&#x2F;**</span><br><span class="line">* @program: $&#123;PROJECT_NAME&#125;</span><br><span class="line">*</span><br><span class="line">* @description: $&#123;description&#125;</span><br><span class="line">*</span><br><span class="line">* @author: Mr.Wang</span><br><span class="line">*</span><br><span class="line">* @create: $&#123;YEAR&#125;-$&#123;MONTH&#125;-$&#123;DAY&#125; $&#123;HOUR&#125;:$&#123;MINUTE&#125;</span><br><span class="line">**&#x2F;123456789</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>这里的代码区显示有问题，csdn有bug ，去掉里面的中文就行了。</p>
-</blockquote>
-<hr>
-<h2 id="生成方法注释"><a href="#生成方法注释" class="headerlink" title="生成方法注释"></a>生成方法注释</h2><ol>
-<li>打开Preferences</li>
-<li>Editor -&gt; Live Templates -&gt; 点击右边加号为自己添加一个Templates Group -&gt; 然后选中自己的Group再次点击加号添加Live Templates<br> <img src="https://img-blog.csdn.net/20171101011618802?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzQ1ODExMTg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" alt="这里写图片描述"><br> <img src="https://img-blog.csdn.net/20171101011634942?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzQ1ODExMTg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" alt="这里写图片描述"></li>
-<li>然后设置自己喜欢的快捷键 在Abbreviation里面 记得在Applicable in 里面勾选,起码也要勾选class<br> <img src="https://img-blog.csdn.net/20171101011646159?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzQ1ODExMTg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" alt="这里写图片描述"></li>
-<li>然后在Edit variables里面添加参数和返回值的自动取值<br> <img src="https://img-blog.csdn.net/20171101012257865?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzQ1ODExMTg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" alt="这里写图片描述"><br> Expression里面选择就是了<br> <img src="https://img-blog.csdn.net/20171101012441585?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzQ1ODExMTg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" alt="这里写图片描述"></li>
-<li>然后再你的方法上面直接输入/ + 你设置的Abbreviation快捷键 + tab键就直接生成了 （我设置的是/+ a + tab）<br> 效果图：<br> <img src="https://img-blog.csdn.net/20171101012859816?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzQ1ODExMTg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" alt="这里写图片描述"><br> 里面的参数和返回值都是根据你在Edit variables里面添加的自动生成的，</li>
-</ol>
-<h3 id="生成方法注解模板"><a href="#生成方法注解模板" class="headerlink" title="生成方法注解模板"></a>生成方法注解模板</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">** * @Description: $description$ * @Param: $params$ * @return: $returns$ * @Author: Mr.Wang * @Date: $date$ *&#x2F; </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>注意，这个和类注解模板有点不一样，这个是用两个$$ ，这个的作用就是生成后光标直接跳到当前位置，这样也可以直接去输入description的内容了</p>
-<p>对于 Live Templates只能说真的很强大，你平常用的sout ,psvm什么都是里面的，大家可以自行百度一下学习一下。</p>
-</blockquote>
-<p>版权声明：本文为博主原创文章，遵循<a target="_blank" rel="noopener" href="http://creativecommons.org/licenses/by-sa/4.0/"> CC 4.0 BY-SA </a>版权协议，转载请附上原文出处链接和本声明。</p>
-<p>本文链接：<a target="_blank" rel="noopener" href="https://blog.csdn.net/qq_34581118/article/details/78409782">https://blog.csdn.net/qq_34581118/article/details/78409782</a></p>
-
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2020/09/10/idea%E7%94%9F%E6%88%90%E7%B1%BB%E6%B3%A8%E9%87%8A%E5%92%8C%E6%96%B9%E6%B3%95%E6%B3%A8%E9%87%8A%E6%96%B9%E6%B3%95/#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
       
     </div>
 
