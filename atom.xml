@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-09-07T14:54:27.500Z</updated>
+  <updated>2020-09-10T11:43:48.764Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>idea生成注释的方法</title>
+    <link href="http://yoursite.com/2020/09/10/idea%E7%94%9F%E6%88%90%E7%B1%BB%E6%B3%A8%E9%87%8A%E5%92%8C%E6%96%B9%E6%B3%95%E6%B3%A8%E9%87%8A%E6%96%B9%E6%B3%95/"/>
+    <id>http://yoursite.com/2020/09/10/idea%E7%94%9F%E6%88%90%E7%B1%BB%E6%B3%A8%E9%87%8A%E5%92%8C%E6%96%B9%E6%B3%95%E6%B3%A8%E9%87%8A%E6%96%B9%E6%B3%95/</id>
+    <published>2020-09-10T11:38:10.388Z</published>
+    <updated>2020-09-10T11:43:48.764Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;最近从eclipse转idea了，第一步当然是配置快捷键，模板等。但是！发生了一件贼蛋疼的事情，竟然一直找不到正确添加方法注释的方法！ 最后自己摸索到了，在此详细记录，供大家参考。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure
+        
+      
+    
+    </summary>
+    
+    
+      <category term="软件的使用" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    
+    
+      <category term="idea" scheme="http://yoursite.com/tags/idea/"/>
+    
+      <category term="软件使用" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Java01</title>
     <link href="http://yoursite.com/2020/08/31/Java01/"/>
     <id>http://yoursite.com/2020/08/31/Java01/</id>
     <published>2020-08-31T13:54:46.500Z</published>
-    <updated>2020-09-07T14:54:27.500Z</updated>
+    <updated>2020-09-08T10:11:54.519Z</updated>
     
     <summary type="html">
     
@@ -71,7 +103,7 @@
     <link href="http://yoursite.com/2020/08/08/%E8%AF%AD%E5%9D%97/"/>
     <id>http://yoursite.com/2020/08/08/%E8%AF%AD%E5%9D%97/</id>
     <published>2020-08-08T12:39:01.797Z</published>
-    <updated>2020-08-31T14:50:52.252Z</updated>
+    <updated>2020-09-10T11:45:48.433Z</updated>
     
     <summary type="html">
     
@@ -94,7 +126,7 @@
     <link href="http://yoursite.com/2020/08/06/%E8%AF%8D%E6%A0%B9/"/>
     <id>http://yoursite.com/2020/08/06/%E8%AF%8D%E6%A0%B9/</id>
     <published>2020-08-06T07:33:19.690Z</published>
-    <updated>2020-08-08T12:28:59.757Z</updated>
+    <updated>2020-09-10T11:45:32.435Z</updated>
     
     <summary type="html">
     
@@ -117,7 +149,7 @@
     <link href="http://yoursite.com/2020/08/06/%E5%90%8E%E7%BC%80/"/>
     <id>http://yoursite.com/2020/08/06/%E5%90%8E%E7%BC%80/</id>
     <published>2020-08-06T07:05:54.009Z</published>
-    <updated>2020-08-06T08:13:49.620Z</updated>
+    <updated>2020-09-10T11:45:26.721Z</updated>
     
     <summary type="html">
     
@@ -140,7 +172,7 @@
     <link href="http://yoursite.com/2020/08/05/%E5%89%8D%E7%BC%80/"/>
     <id>http://yoursite.com/2020/08/05/%E5%89%8D%E7%BC%80/</id>
     <published>2020-08-05T07:38:51.689Z</published>
-    <updated>2020-08-31T14:46:47.809Z</updated>
+    <updated>2020-09-10T11:45:41.567Z</updated>
     
     <summary type="html">
     
