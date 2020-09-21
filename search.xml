@@ -231,7 +231,9 @@
 <p><strong>核心机制—-Java虚拟机</strong><br>JVM是一个虚拟的计算机，具有指令集并使用不同的存储区域。负责执行指令，管理数据、内存、寄存器。</p>
 <p><strong>核心机制—-垃圾回收</strong><br>不再使用的内存空间赢回收—-垃圾回收<br>垃圾回收在Java程序运行过程中自动进行，程序员无法精准控制和干预。</p>
 <h3 id="Java语言的环境搭建"><a href="#Java语言的环境搭建" class="headerlink" title="Java语言的环境搭建"></a>Java语言的环境搭建</h3><p><strong>JDK、JRE</strong><br>JDK（Java Development Kit        Java开发工具包）<br><code>JDk包含了java的开发工具，也包括了JRE</code><br>JRE（Java Runtime Environment        Java运行环境）<br><code>包括Java虚拟机和Java程序所需的核心类库等</code><br>JDk = JRE + 开发工具集<br>JRE = JVM + Java SE 标准类库</p>
-<p><strong>下载并安装JDK</strong><br>网址：<a href="http://www.oracle.com、www.java.sun.com/">www.oracle.com、www.java.sun.com</a><br>安装：下一步即可<br>            安装路径不要有中文或者空格等特殊字符</p>
+<p><strong>下载并安装JDK</strong><br>网址：<a href="http://www.oracle.com、www.java.sun.com/">www.oracle.com、www.java.sun.com</a><br>安装：下一步即可<br>            安装路径不要有中文或者空格等特殊字符<br>环境配置：略</p>
+<h3 id="注释（Comment）"><a href="#注释（Comment）" class="headerlink" title="注释（Comment）"></a>注释（Comment）</h3><p>单行注释<br>多行注释<br>文档注释（java特有）</p>
+<p><code>观看尚硅谷的视频写得笔记</code></p>
 ]]></content>
       <categories>
         <category>Java</category>
