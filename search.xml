@@ -295,11 +295,13 @@
       </tags>
   </entry>
   <entry>
-    <title></title>
+    <title>Java编程练习刷题网站</title>
     <url>/2020/09/25/java%E7%BC%96%E7%A8%8B%E7%BB%83%E4%B9%A0%20%E5%88%B7%E9%A2%98%E7%BD%91%E7%AB%99/</url>
     <content><![CDATA[<h1 id="java-编程练习-刷题网站"><a href="#java-编程练习-刷题网站" class="headerlink" title="java 编程练习 刷题网站"></a>java 编程练习 刷题网站</h1><p>原文链接：<a href="https://www.ucloud.cn/yun/74330.html">https://www.ucloud.cn/yun/74330.html</a></p>
 <p><strong>freecodecamp</strong></p>
 <p><a href="https://freecodecamp.cn/">https://freecodecamp.cn</a><br><a href="https://www.freecodecamp.org/">https://www.freecodecamp.org/</a> 的中文版，可以学习前端，后端，数据可视化等知识</p>
+<a id="more"></a>
+
 <p><strong>leetcode</strong></p>
 <p><a href="https://leetcode.com/">https://leetcode.com/</a><br>有名的oj系统，听说有人通过这个网站刷题进了google<br>当然，中文版也接着上线了 <a href="https://leetcode-cn.com/">https://leetcode-cn.com/</a></p>
 <p><strong>MDN</strong></p>
@@ -317,5 +319,13 @@
 <p><strong>hackerrank</strong></p>
 <p><a href="https://www.hackerrank.com/">https://www.hackerrank.com</a><br>一个英文的学习网站，类似oj的形式，有数据结构算法的课程，也有正则表达式等课程，质量还不错</p>
 ]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>语言</tag>
+        <tag>java</tag>
+        <tag>练习</tag>
+      </tags>
   </entry>
 </search>
