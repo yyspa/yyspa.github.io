@@ -328,4 +328,50 @@
         <tag>练习</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Node重装系统后的配置环境变量</title>
+    <url>/2020/09/29/Node%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E5%90%8E%E7%9A%84%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/</url>
+    <content><![CDATA[<p><strong>[Node重装系统后的配置环境变量]</strong></p>
+<a id="more"></a>
+
+<p>1 将node加入到环境变量的path中  D:\IDE\nodejs;<br>D:\IDE\nodejs\node_global</p>
+<p>2设置npm的全局模块的存放路径以及cache的路径 !</p>
+<p><img src="C:\Users\yan13\AppData\Roaming\Typora\typora-user-images\image-20200929220126037.png" alt="image-20200929220126037"></p>
+<p>npm config set prefix “D:\IDE\nodejs\node_global”</p>
+<p>npm config set cache “D:\IDE\nodejs\node_cache”</p>
+<p>检验是否成功</p>
+<p><img src="C:\Users\yan13\AppData\Roaming\Typora\typora-user-images\image-20200929220345751.png" alt="image-20200929220345751"></p>
+]]></content>
+      <categories>
+        <category>node</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
+        <tag>hexo</tag>
+        <tag>node</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>手动添加右键菜单没有Git Bash Here</title>
+    <url>/2020/09/29/%E6%89%8B%E5%8A%A8%E6%B7%BB%E5%8A%A0%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E6%B2%A1%E6%9C%89Git%20Bash/</url>
+    <content><![CDATA[<h1 id="手动添加右键菜单没有Git-Bash-Here"><a href="#手动添加右键菜单没有Git-Bash-Here" class="headerlink" title="手动添加右键菜单没有Git Bash Here"></a><a href="https://www.cnblogs.com/ql123456/p/12119135.html">手动添加右键菜单没有Git Bash Here</a></h1><p> 小编电脑出了问题，于是重新安装的系统，装好之后发现右键的git bash here 命令没有，于是手动实现添加命令行</p>
+<h2 id="第一步-WIN-R-打开cmd命令行，输入‘regedit’，打开注册表"><a href="#第一步-WIN-R-打开cmd命令行，输入‘regedit’，打开注册表" class="headerlink" title="第一步 WIN + R 打开cmd命令行，输入‘regedit’，打开注册表"></a>第一步 WIN + R 打开cmd命令行，输入‘regedit’，打开注册表</h2><h2 id="第二步-进入-HKEY-CLASSES-ROOT-Directory-Background"><a href="#第二步-进入-HKEY-CLASSES-ROOT-Directory-Background" class="headerlink" title="第二步 进入[HKEY_CLASSES_ROOT\Directory\Background]"></a>第二步 进入[HKEY_CLASSES_ROOT\Directory\Background]</h2><a id="more"></a>
+
+<p><img src="https://img2018.cnblogs.com/i-beta/1487613/201912/1487613-20191230122613078-1647391975.png" alt="img"></p>
+<h2 id="第三步-在-shell-下右键-新建项-open-in-git-名字任意，但最好是git-bash-here"><a href="#第三步-在-shell-下右键-新建项-open-in-git-名字任意，但最好是git-bash-here" class="headerlink" title="第三步 在[shell]下右键-新建项[open in git ](名字任意，但最好是git bash here)"></a>第三步 在[shell]下右键-新建项[open in git ](名字任意，但最好是git bash here)</h2><h2 id="设置其值为“Git-Bash-Here”-此为右键菜单显示名称。"><a href="#设置其值为“Git-Bash-Here”-此为右键菜单显示名称。" class="headerlink" title="　设置其值为“Git Bash Here”,此为右键菜单显示名称。"></a>　设置其值为“Git Bash Here”,此为右键菜单显示名称。</h2><p>   此时鼠标右击就能看到Git Bash Here,但是没有关联程序 即现无实际作用</p>
+<h2 id="第四步-在-open-in-git-下右键-新建-项-command-其值为-“git安装根目录-bin-bash-exe”-–login-i"><a href="#第四步-在-open-in-git-下右键-新建-项-command-其值为-“git安装根目录-bin-bash-exe”-–login-i" class="headerlink" title="第四步 在[open in git]下右键-新建-项[command],其值为 “git安装根目录\bin\bash.exe” –login -i"></a>第四步 在[open in git]下右键-新建-项[command],其值为 “git安装根目录\bin\bash.exe” –login -i</h2><p><img src="https://img2018.cnblogs.com/i-beta/1487613/201912/1487613-20191230123454429-324828237.png" alt="img"></p>
+<h2 id="第五步-为了能和第一次安装一样，右键能看到Git的小图标。"><a href="#第五步-为了能和第一次安装一样，右键能看到Git的小图标。" class="headerlink" title="第五步 为了能和第一次安装一样，右键能看到Git的小图标。"></a>第五步 为了能和第一次安装一样，右键能看到Git的小图标。</h2><p>在open in git中右击-新建-字符串值，名称为Icon,右键编辑 其值为“git安装根目录\mingw64\share\git\git-for-windows.ico”。</p>
+<p>最后的目录结构为：</p>
+<p><img src="https://img2018.cnblogs.com/i-beta/1487613/201912/1487613-20191230123441126-834381785.png" alt="img"></p>
+<p> 好了，按照以上操作大功告成！</p>
+<p>转载：<a href="https://www.cnblogs.com/ql123456/p/12119135.html">https://www.cnblogs.com/ql123456/p/12119135.html</a></p>
+]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
 </search>

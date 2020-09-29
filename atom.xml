@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-09-25T10:55:25.883Z</updated>
+  <updated>2020-09-29T14:04:36.061Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Node重装系统后的配置环境变量</title>
+    <link href="http://yoursite.com/2020/09/29/Node%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E5%90%8E%E7%9A%84%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/"/>
+    <id>http://yoursite.com/2020/09/29/Node%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E5%90%8E%E7%9A%84%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/</id>
+    <published>2020-09-29T13:57:12.715Z</published>
+    <updated>2020-09-29T14:04:36.061Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;[Node重装系统后的配置环境变量]&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="node" scheme="http://yoursite.com/categories/node/"/>
+    
+    
+      <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="node" scheme="http://yoursite.com/tags/node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>手动添加右键菜单没有Git Bash Here</title>
+    <link href="http://yoursite.com/2020/09/29/%E6%89%8B%E5%8A%A8%E6%B7%BB%E5%8A%A0%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E6%B2%A1%E6%9C%89Git%20Bash/"/>
+    <id>http://yoursite.com/2020/09/29/%E6%89%8B%E5%8A%A8%E6%B7%BB%E5%8A%A0%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E6%B2%A1%E6%9C%89Git%20Bash/</id>
+    <published>2020-09-29T13:29:51.024Z</published>
+    <updated>2020-09-29T13:37:08.872Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;手动添加右键菜单没有Git-Bash-Here&quot;&gt;&lt;a href=&quot;#手动添加右键菜单没有Git-Bash-Here&quot; class=&quot;headerlink&quot; title=&quot;手动添加右键菜单没有Git Bash Here&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.cnblogs.com/ql123456/p/12119135.html&quot;&gt;手动添加右键菜单没有Git Bash Here&lt;/a&gt;&lt;/h1&gt;&lt;p&gt; 小编电脑出了问题，于是重新安装的系统，装好之后发现右键的git bash here 命令没有，于是手动实现添加命令行&lt;/p&gt;
+&lt;h2 id=&quot;第一步-WIN-R-打开cmd命令行，输入‘regedit’，打开注册表&quot;&gt;&lt;a href=&quot;#第一步-WIN-R-打开cmd命令行，输入‘regedit’，打开注册表&quot; class=&quot;headerlink&quot; title=&quot;第一步 WIN + R 打开cmd命令行，输入‘regedit’，打开注册表&quot;&gt;&lt;/a&gt;第一步 WIN + R 打开cmd命令行，输入‘regedit’，打开注册表&lt;/h2&gt;&lt;h2 id=&quot;第二步-进入-HKEY-CLASSES-ROOT-Directory-Background&quot;&gt;&lt;a href=&quot;#第二步-进入-HKEY-CLASSES-ROOT-Directory-Background&quot; class=&quot;headerlink&quot; title=&quot;第二步 进入[HKEY_CLASSES_ROOT\Directory\Background]&quot;&gt;&lt;/a&gt;第二步 进入[HKEY_CLASSES_ROOT\Directory\Background]&lt;/h2&gt;
+    
+    </summary>
+    
+    
+      <category term="git" scheme="http://yoursite.com/categories/git/"/>
+    
+    
+      <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>Java编程练习刷题网站</title>
