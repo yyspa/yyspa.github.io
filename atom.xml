@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-09-29T14:04:36.061Z</updated>
+  <updated>2020-10-06T23:52:14.295Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mysql与Navicat连接</title>
+    <link href="http://yoursite.com/2020/10/07/mysql%E4%B8%8ENavicat%E8%BF%9E%E6%8E%A5/"/>
+    <id>http://yoursite.com/2020/10/07/mysql%E4%B8%8ENavicat%E8%BF%9E%E6%8E%A5/</id>
+    <published>2020-10-06T23:48:40.061Z</published>
+    <updated>2020-10-06T23:52:14.295Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;解决：navicat出现Table-‘performance-schema-session-variables’-doesn’t-exist报错，解决过程中出现mysql遇到的cannot-select-database-问题&quot;&gt;&lt;a href=&quot;#解决：navicat出现Table-‘performance-schema-session-variables’-doesn’t-exist报错，解决过程中出现mysql遇到的cannot-select-database-问题&quot; class=&quot;headerlink&quot; title=&quot;解决：navicat出现Table ‘performance_schema.session_variables’ doesn’t exist报错，解决过程中出现mysql遇到的cannot select database 问题&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.cnblogs.com/hellowen/p/12967726.html&quot;&gt;解决：navicat出现Table ‘performance_schema.session_variables’ doesn’t exist报错，解决过程中出现mysql遇到的cannot select database 问题&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;问题描述：&lt;/p&gt;
+&lt;p&gt;navicat连接本地MySQL时出现Table ‘performance_schema.session_variables’ doesn’t exist报错。网上的解决方法是在mysql的bin目录下运行 mysql_upgrade -u root -p –force命令，但是我在输入这个命令之后出现了Error occurred: Cannot select database.报错。&lt;/p&gt;
+&lt;p&gt;解决方案：&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="MySQL" scheme="http://yoursite.com/categories/MySQL/"/>
+    
+    
+      <category term="问题" scheme="http://yoursite.com/tags/%E9%97%AE%E9%A2%98/"/>
+    
+      <category term="MySQL" scheme="http://yoursite.com/tags/MySQL/"/>
+    
+  </entry>
   
   <entry>
     <title>Node重装系统后的配置环境变量</title>
@@ -62,6 +87,31 @@
       <category term="git" scheme="http://yoursite.com/tags/git/"/>
     
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java01</title>
+    <link href="http://yoursite.com/2020/09/29/Java01/"/>
+    <id>http://yoursite.com/2020/09/29/Java01/</id>
+    <published>2020-09-29T06:06:03.416Z</published>
+    <updated>2020-10-05T01:39:32.945Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;软件开发介绍&quot;&gt;&lt;a href=&quot;#软件开发介绍&quot; class=&quot;headerlink&quot; title=&quot;软件开发介绍&quot;&gt;&lt;/a&gt;软件开发介绍&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;软件开发&lt;/strong&gt;&lt;br&gt;软件，即一系列按照特定顺序组织的计算机数据和指令的集合，有&lt;strong&gt;系统软件&lt;/strong&gt;和&lt;strong&gt;应用软件&lt;/strong&gt;之分。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
+    
+    
+      <category term="语言" scheme="http://yoursite.com/tags/%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="面向对象" scheme="http://yoursite.com/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    
+      <category term="java" scheme="http://yoursite.com/tags/java/"/>
     
   </entry>
   
@@ -117,31 +167,6 @@
       <category term="idea" scheme="http://yoursite.com/tags/idea/"/>
     
       <category term="软件使用" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java01</title>
-    <link href="http://yoursite.com/2020/08/31/Java01/"/>
-    <id>http://yoursite.com/2020/08/31/Java01/</id>
-    <published>2020-08-31T13:54:46.500Z</published>
-    <updated>2020-09-21T12:58:38.357Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;软件开发介绍&quot;&gt;&lt;a href=&quot;#软件开发介绍&quot; class=&quot;headerlink&quot; title=&quot;软件开发介绍&quot;&gt;&lt;/a&gt;软件开发介绍&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;软件开发&lt;/strong&gt;&lt;br&gt;软件，即一系列按照特定顺序组织的计算机数据和指令的集合，有&lt;strong&gt;系统软件&lt;/strong&gt;和&lt;strong&gt;应用软件&lt;/strong&gt;之分。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
-    
-    
-      <category term="语言" scheme="http://yoursite.com/tags/%E8%AF%AD%E8%A8%80/"/>
-    
-      <category term="面向对象" scheme="http://yoursite.com/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
-    
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
     
   </entry>
   
